@@ -1,0 +1,309 @@
+fileFormatVersion: 2
+guid: bce4b543e06e1be41994a07b27be7791
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BatangLampu
+    second: {fileID: 2100000, guid: 881d695661573d84fa7de0e6898d43df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BatangLampu.001
+    second: {fileID: 2100000, guid: f7c6ab95bed3599489318055d66bac5b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BatangLampu.002
+    second: {fileID: 2100000, guid: 61713bbb14d3c4646832cfab1e915d2a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BatangLampu.003
+    second: {fileID: 2100000, guid: 8063b20035fb0fe4bafc1af094185c88, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BatangLampu.004
+    second: {fileID: 2100000, guid: 73aec7e9fac09d14fa6fcc0834ec7352, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BatangLampu.005
+    second: {fileID: 2100000, guid: 759114c8f8a03da4281a7c35991445b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BatangLampu.006
+    second: {fileID: 2100000, guid: 3a6e0a2cef596f649aae086bb5a45289, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BatangLampu.007
+    second: {fileID: 2100000, guid: 30171f43afcb06a48a14f2e5b7b407a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BatangLampu.008
+    second: {fileID: 2100000, guid: 0e3aa697d6294d34e9ad08650b2d619a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BatangLampu.009
+    second: {fileID: 2100000, guid: 092771593e581014f8cdd2c3736fc4ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Garis Jalan
+    second: {fileID: 2100000, guid: dc7a314409ea2af4fb06961bfd31fc3f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Garis Jalan 2
+    second: {fileID: 2100000, guid: a6f0428ce58ae104eab508d8115230bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jalan
+    second: {fileID: 2100000, guid: 4f0e1737e3465b449aaf97e4e5eda650, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KepalaLampu
+    second: {fileID: 2100000, guid: cfaa0cbceb83aaa41aae611466fff72a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KepalaLampu.001
+    second: {fileID: 2100000, guid: 200a5fb99fde09c44bbb5abc13afe689, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KepalaLampu.002
+    second: {fileID: 2100000, guid: 303dca651970385439d5bb67802dcaef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KepalaLampu.003
+    second: {fileID: 2100000, guid: aba027feb65d029428354abaca629780, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KepalaLampu.004
+    second: {fileID: 2100000, guid: 65a1d1abf25095d4a9286d19ae06bcdf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KepalaLampu.005
+    second: {fileID: 2100000, guid: 9d5b10d7487f0354090bfe8444cc73fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KepalaLampu.006
+    second: {fileID: 2100000, guid: aa35afd869a689341a79f27623f5a865, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KepalaLampu.007
+    second: {fileID: 2100000, guid: 453800d51bc01324789c489a178fabfc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KepalaLampu.008
+    second: {fileID: 2100000, guid: a77efb97641f48b4ba677e9666753ef6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KepalaLampu.009
+    second: {fileID: 2100000, guid: 6416ee0132f604947a99ec1b0e87c9c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KotakParking
+    second: {fileID: 2100000, guid: 614a9b48b7698e34dab9d5be4285c8f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KotakParking.001
+    second: {fileID: 2100000, guid: a8f9e60dfb5b42749b6fc151e6caa1d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lampu
+    second: {fileID: 2100000, guid: f7a5f6bc3bc872d4d917ae1515fbd794, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lampu.001
+    second: {fileID: 2100000, guid: 53e722eb20727534288e248ac3372e3e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lampu.002
+    second: {fileID: 2100000, guid: c10c5b1e58e94194e8f776872522682a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lampu.003
+    second: {fileID: 2100000, guid: 396daa3fb8f653c4385a9fa7413a8cd2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lampu.004
+    second: {fileID: 2100000, guid: 6d34de8cf3e5d064f86bd5e90fbf495b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lampu.005
+    second: {fileID: 2100000, guid: e787ce138bb94304dbeaf83a725a196c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lampu.006
+    second: {fileID: 2100000, guid: 87adaabe855ac0a4b8e16a1ee7a9ecb2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lampu.007
+    second: {fileID: 2100000, guid: ba242cf4a78c9f24189fb405edc69e09, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lampu.008
+    second: {fileID: 2100000, guid: 87637ae8a7a43f847bc945456265c2ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lampu.009
+    second: {fileID: 2100000, guid: 379aedb28ef5ff44bad28b60452c131e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TiangLampu
+    second: {fileID: 2100000, guid: a96c7a7c38755c747a2554b65ed222d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TiangLampu.001
+    second: {fileID: 2100000, guid: 6ee0e62fe5425f742b33b6acbd584a1d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TiangLampu.002
+    second: {fileID: 2100000, guid: 12bbc0dae7e5db94c9eaf63e39cd8f81, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TiangLampu.003
+    second: {fileID: 2100000, guid: 2066275deeb6b4c40b60696ba64f034a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TiangLampu.004
+    second: {fileID: 2100000, guid: f8f8f5aa4e7fe6e49936da363e5c1dd8, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

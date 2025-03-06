@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac094ebc6c678404e8b7561de1a8f093, type: 3}
+  m_Name: Shades
+  m_EditorClassIdentifier: 
+  itemName: Mera Shades
+  itemImage: {fileID: 21300000, guid: dc9afcfbdfe995741af8b96186c7daec, type: 3}
+  itemDescription: Gradient non-polarized CR39 lens
+  itemPrice: 4
